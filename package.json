@@ -1,0 +1,45 @@
+{
+  "name": "freelancer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.12.2",
+    "client-sessions": "^0.8.0",
+    "foreman": "^3.0.1",
+    "multiparty": "^4.1.3",
+    "nodemon": "^3.1.10",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "^5.0.1",
+    "redux": "^3.7.2",
+    "render-if": "^0.1.1",
+    "sweetalert2": "^7.19.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "dev": "nf start -p 3000",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "test": "echo \"No tests yet\" && exit 0",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "mocha": "^11.7.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
