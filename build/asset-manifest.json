@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.065613ff.css",
+    "main.js": "/static/js/main.c446d5c2.js",
+    "static/media/_1520668179173_.pdf": "/static/media/_1520668179173_.869661cf8d526790ce66.pdf",
+    "static/media/_1520669507729_.pdf": "/static/media/_1520669507729_.869661cf8d526790ce66.pdf",
+    "static/media/_1521791939427_.162c9284": "/static/media/_1521791939427_.c20c467b5e02b94c7e53.162c9284",
+    "static/media/_1521405416188_.pdf": "/static/media/_1521405416188_.114be71a92ce0add7df1.pdf",
+    "static/media/_1520667468152_.pdf": "/static/media/_1520667468152_.b553ff4068290b18acbc.pdf",
+    "static/media/_1520667738315_.pdf": "/static/media/_1520667738315_.b553ff4068290b18acbc.pdf",
+    "static/media/_1521140194120_.pdf": "/static/media/_1521140194120_.b553ff4068290b18acbc.pdf",
+    "static/media/_1520567700565_.pdf": "/static/media/_1520567700565_.e59b8aba711b7bf009fc.pdf",
+    "static/media/_1520668243173_.pdf": "/static/media/_1520668243173_.0f1d20227c29b1927888.pdf",
+    "static/media/_1520669610768_.pdf": "/static/media/_1520669610768_.461fb03111e17b6f425a.pdf",
+    "static/media/freelancer_background.jpg": "/static/media/freelancer_background.02fe0dbff238ad41d64d.jpg",
+    "static/media/1758556567531Screenshot 2025-09-22 103506.png": "/static/media/1758556567531Screenshot 2025-09-22 103506.919aca714f98aff8a30c.png",
+    "static/media/_1524971722155_avengers.jpg.png1525476229567": "/static/media/_1524971722155_avengers.jpg.893912034ac3e6eb034c.png1525476229567",
+    "index.html": "/index.html",
+    "main.065613ff.css.map": "/static/css/main.065613ff.css.map",
+    "main.c446d5c2.js.map": "/static/js/main.c446d5c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.065613ff.css",
+    "static/js/main.c446d5c2.js"
+  ]
+}
